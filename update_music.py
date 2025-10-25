@@ -1,6 +1,6 @@
 from yt_dlp import YoutubeDL
 
-playlist_url = "https://music.youtube.com/playlist?list=PLwtmDkaE16Q16z1QKG0EB1jRiq1BKin33&si=9ksRp34DdgqSsuQM"
+playlist_url = "https://www.youtube.com/playlist?list=PLwtmDkaE16Q16z1QKG0EB1jRiq1BKin33"
 output_dir = "/home/sumedh/mediaplayer/music"
 
 options = {
